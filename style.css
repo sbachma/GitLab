@@ -1,0 +1,25 @@
+
+
+body {
+
+  background-color: grey; /* Light grey background */
+
+  font-family: Arial, sans-serif; /* Set a default font */
+
+}
+
+
+
+blockquote {
+
+  border-left: 4px solid #ccc; /* Grey border on the left */
+
+  padding-left: 20px; /* Space between the border and the text */
+
+  margin-left: 0;
+
+  color: #555; /* Dark grey text */
+
+  font-style: italic; /* Italicize the quote */
+
+}
